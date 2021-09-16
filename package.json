@@ -4,7 +4,13 @@
   "description": "",
   "main": "null",
   "scripts": {
-    "task1": "node Task-1.js",
+    "```bash
+    sudo apt-get install nodejs
+    
+    pkg install nodejs
+    
+    brew install node
+    ```": "node Task-1.js",
     "task2": "node Task-2.js"
 
   },
