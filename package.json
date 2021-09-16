@@ -1,0 +1,14 @@
+{
+  "name": "tasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "null",
+  "scripts": {
+    "task1": "node Task-1.js",
+    "task2": "node Task-2.js"
+
+  },
+  "repository": {"url": "https://github.com/ulvimemmeedov/ABB-Tech-Tasks"},
+  "author": "Ulvi Memmedov",
+  "license": "MIT"
+}
